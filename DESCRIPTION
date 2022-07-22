@@ -1,0 +1,13 @@
+Package: org.Ylipolytica.W29.eg.db
+Title: Genome wide annotation for Yarrowia lipolytica.W29
+Description: Genome wide annotation for Yarrowia lipolytica.W29, primarily based on mapping using Entrez Gene identifiers.
+Version: 2022.6.29
+Author: Chun-Hui Gao <gaospecial@gmail.com>
+Maintainer: Chun-Hui Gao <gaospecial@gmail.com>
+Depends: R (>= 2.7.0), methods, AnnotationDbi (>= 1.58.0)
+Suggests: DBI, annotate, RUnit
+License: Artistic-2.0
+organism: Yarrowia lipolytica.W29
+species: Yarrowia lipolytica.W29
+biocViews: OrgDb, annotation
+
